@@ -1,6 +1,6 @@
 # ccl-document
 clozure common lisp中文手册  
-关于Clozure CL  
+[关于Clozure CL](https://github.com/vinurs/ccl-document/blob/master/about-clozure-cl.md)  
 安装、运行Clozure CL  
 从源码编译Clozure CL  
 使用Clozure CL  
